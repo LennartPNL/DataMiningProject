@@ -1,5 +1,8 @@
 # Data Mining Project
 
+The results can be observed [here](https://app.powerbi.com/view?r=eyJrIjoiOWFkNjY1MmEtOWJkNy00MGU4LTg5NDAtYjYzNDkxNjJmNTFkIiwidCI6IjU1YmVlZWRmLTdhZmItNGI2YS1hYjU3LTBlMjYxYzI2NDJkZSIsImMiOjl9 "PowerBI visualization"):
+
+
 ## Context:
 
 ```
